@@ -17,14 +17,12 @@ version="0.1"
  # Display name for the pack in the in-game mods list.
 displayName="PACK DISPLAY NAME"
 # A URL for the "homepage" for this pack, displayed in the mod UI.
-displayURL="https://donationalerts.com/r/azimkin"
+displayURL=""
 # Pack logo.
 logoFile="vingette.png"
 # The description text for the pack (multi line!)
 description='''
-
-
-Azimkin не несёт ответственность за авторское право, даннфй пак был портирован на заказ.
+Pack Description
 '''
 
 [[dependencies.PACKNAME]]
